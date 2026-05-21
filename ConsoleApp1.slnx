@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
+  <Folder Name="/Элементы решения/" />
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="5408f923-42d2-4b74-afff-48a6f0f31b09" />
 </Solution>
