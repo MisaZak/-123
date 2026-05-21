@@ -11,6 +11,5 @@ namespace ConsoleApp1
     {
         public static int a = 1;
         public static string ak = "hello";
-        
     }
 }
