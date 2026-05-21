@@ -9,5 +9,6 @@ namespace ConsoleApp1
     internal class Class3
     {
         public int a = 0;
+        int c = 6;
     }
 }
