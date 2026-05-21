@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    internal class Program
+    internal class Class3
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine();
-        }
     }
 }
